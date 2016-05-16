@@ -9,7 +9,9 @@ The vertices distance from the centre of the sphere is determined by the value s
 
 ## Usage
 Use the GUI to toggle between 3 different modes of displacment: Texture, Sinusoidal and Pattern.
+
 Drag & Drop your own media onto the app window to have it displaced.
+
 Adjust polygonal, texture and viewing paramaters with the sliders.
 
 ## Dependencies:
